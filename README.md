@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there! :sunglasses:
+I'm **Is**hibe **Hoku**, NIT Toyota College student.
 
 <!--
 **is-hoku/is-hoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
